@@ -1,2 +1,1 @@
-Beginner Coder
-TRY vS ALL
+Beginner Coder                                                                                                                  TRY vS ALL
